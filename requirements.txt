@@ -1,6 +1,7 @@
 numpy
 pandas
 matplotlib
+pillow
 torch
 torchvision
-pillow
+torchinfo
